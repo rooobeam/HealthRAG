@@ -8,59 +8,35 @@ To enhance the identification of false health information and provide profession
 
 ![overview](pictures/overview.png)
 
-
-
-## ✨ Features
-
-- **核心功能1**: 简要说明
-- **核心功能2**: 简要说明
-- **特色功能**: 差异化亮点
+![matrix](pictures/matrix.png)
 
 
 
 ## 🚀 Quick Start
 
-
-
 ### Installation
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+git clone https://github.com/rooobeam/HealthRAG)
+cd HealthRAG
 
 # 安装依赖
 pip install -r requirements.txt
-# 或
-npm install
-
-# 环境配置
-cp .env.example .env
-
-### Usage
-```bash
-# 运行开发服务器
-python app.py
-# 或
-npm run dev
-
-# 生产环境构建
-npm run build
 ```
+
 
 
 ## 🤝 Contributing
 
 欢迎通过以下方式参与贡献：
-
 1. 提交 Issue 报告问题或建议
 2. Fork 项目并提交 Pull Request
-3. 完善项目文档
 
 
 
 ## 📬 Contact
 
 - 作者: [rooobeam](https://github.com/rooobeam), [Rook1eChan](https://github.com/Rook1eChan)
-- 项目链接: [[HealthRAG: HealthRAG: Protect-Yourself-From-Health-Misinformation](https://github.com/rooobeam/HealthRAG)](https://github.com/yourusername/projectname)
+- 项目链接: https://github.com/rooobeam/HealthRAG
 
